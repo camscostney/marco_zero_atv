@@ -1,0 +1,87 @@
+nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: ghostwhite;
+}
+.cabecalho{
+    display: flex;
+    list-style:none;
+    
+}
+.cabecalho li{
+    margin-right:1rem;
+    font-family:'Franklin Gothic Medium';
+}
+.logo{
+    width: 5rem;
+}
+
+.title1{
+    margin-top: 3rem;
+    margin-left: 39rem;
+    font-family: 'Franklin Gothic Medium';
+}
+.title2{
+    margin-left: 33rem;
+    font-family: 'Franklin Gothic Medium';
+}
+.title3{
+    margin-top: 2rem;
+    margin-left: 42rem;
+    font-family: 'Franklin Gothic Medium';
+    
+}
+.foto1{
+    margin-left: 30.8rem;
+    width: 35rem;
+}
+.foto2{
+    margin-top: 3rem;
+    margin-left: 30.8rem;
+    width: 35rem;
+}
+.parag1{
+    margin-left: 20rem;
+    margin-top: 2rem;
+    margin-right: 18rem;
+    font-family: 'Franklin Gothic Medium';
+    font-size: 1.1rem;
+}
+.parag2{
+    margin-left: 20rem;
+    margin-top: 2rem;
+    margin-right: 18rem;
+    font-family: 'Franklin Gothic Medium';
+    font-size: 1.1rem;
+}
+footer{
+    margin-top: 4rem;
+    display: flex;
+    font-family: 'Franklin Gothic Medium';
+    background-color: ghostwhite;
+}
+.rodape{
+    display: flex;
+    list-style: none;
+    justify-content: space-between;
+}
+
+.rodape li{
+    margin-left: 10rem;
+    margin-right: 8rem;
+}
+.ajust1{
+    margin-top: 3rem;
+    margin-left: 39rem;
+    font-family: 'Franklin Gothic Medium';
+}
+.ajust2{
+    margin-left: 30rem;
+    font-family: 'Franklin Gothic Medium';
+}
+.ajust3{
+    margin-top: 2rem;
+    margin-left: 36rem;
+    font-family: 'Franklin Gothic Medium';
+}
